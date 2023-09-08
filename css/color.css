@@ -1,0 +1,53 @@
+.color-bg , .section-title-icon , .facts-title h3  ,   .section-separator a:before  , .box-popup:before , .featur-carousel-holder .customNavigation a ,  .services-holder li:before , .bg-title:before , .single-slider-holder .customNavigation a  , .btn, .custom-skillbar ,  .nav-inner:before , .resume-box-holder:before  , .resume-box-holder:after , .section-separator span:before , .to-top , .footer-social li a  , .ser-tooltip h5:before , .scroll-nav li a:before , .nav-button span:before , #contact-form input[type="submit"] , .fixed-filter a:before , .vis-filter li a   , .project-decr h3.text-title:before ,  .share-icon  , .fwslider-holder .customNavigation  a , .show-info , .pagination a.current-page  , .pagination a:hover , .post-tags a:hover  , .fwslider-holder .owl-dots .owl-dot.active span:before , .halig-center h4:before  , .ser-carous-holder .customNavigation a , .scroll-nav-btn , .controls button , .scroll-nav li a.act-link{
+	background:#c2963c;
+}
+.logo-holder{
+	background:#191919;
+}
+
+.testi-item-text.bgnone::before, .testi-item-text.bgnone::after{
+	background:none;
+}
+.section-title h3,.st-separator ,.st-separator:before, .footer-info h4:before, .to-top-holder p:before, .to-top-holder p:after, .testi-item-text:before, .testi-item-text:after  {
+	background:#fff;
+}
+.scroll-nav-holder nav li a:hover , .nav-inner nav a.curpage  , .social-item a i  , .grid-item span  ,.box-popup i ,  .text-title span , .testi-item-text a , #twitter-feed li a , .price , .contact-info ul li a i , .skills-description , .services-box h3 , .accordion-title i , .pr-list li span , .project-pagination ul li a , .post-link , .post-meta i , .search-submit , .hero-title h4 a:hover , .abl , #success_page p strong , #success_page h3 , .nav-inner nav li.subnav:hover i.subnavicon{
+	color:#c2963c;
+}
+
+.footer-contacts li a  i{
+	color:#c2963c;	
+}
+.loader {
+	border-top: 10px solid  #c2963c;
+	border-right: 10px solid #c2963c;
+	border-bottom: 10px solid #c2963c;
+}
+.facts-title h3:before {
+	border-color: transparent transparent transparent #c2963c;
+}
+.section-title h3:before {
+	border-color: transparent #fff transparent transparent;
+}
+.tooltip h5 {
+	border-top:2px solid #c2963c
+}
+.fw-title {
+	border-bottom:4px solid #c2963c
+}
+.hero-wrap {
+	border-left:4px solid #c2963c;
+	height: 195px;
+}
+.halig-right .hero-wrap {
+	border-right:4px solid #c2963c;
+	border-left:none;
+}
+@media only screen and  (max-width: 1036px) {
+.scroll-nav li a.act-link {
+	color:#c2963c;
+}
+.hero-title h4:before {
+	background:#c2963c;
+}
+}
